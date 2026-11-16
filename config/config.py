@@ -1,0 +1,7 @@
+name_tool = "InquisitorNuke"
+version_tool = "1.0.0"
+coding_tool = "Python 3"
+language_tool = "EN"
+creator = "Catusse2k"
+creator_discord = "! Catusse"
+github_tool = "github.com/Catusse2k"
